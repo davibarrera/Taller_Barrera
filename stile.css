@@ -115,12 +115,12 @@ h2::after{
 }
 
 .estudios li{
-    background:white;
+    background:linear-gradient(135deg);
     margin:10px auto;
     padding:15px;
     max-width:500px;
     border-left:5px solid #000000;
-    box-shadow:0 5px 15px rgba(252, 0, 0, 0.1);
+    box-shadow:0 5px 15px rgba(0, 0, 0, 0.1);
     transition:0.3s;
 }
 
