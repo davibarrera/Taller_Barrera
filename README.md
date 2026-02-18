@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-- Proyecto para la creacion del protacio en html y css 
+- Proyecto para la creacion del portafolio en html y css 
 
 ## Tabla de contendo
 - [caracteristicas](#caracteristicas)
