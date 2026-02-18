@@ -1,5 +1,8 @@
 # Proyecto para la creacion de protafolio personal 
 
+## Descripcion
+
+- Proyecto para la creacion del protacio en html y css 
 
 ## Tabla de contendo
 - [caracteristicas](#caracteristicas)
